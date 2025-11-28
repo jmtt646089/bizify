@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "bizify",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "fe9e33fc-9a30-4a8f-97c0-3abfbd6fb4db",
+      "database_name": "d1-bizify"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
