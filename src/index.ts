@@ -73,7 +73,7 @@ var index_default = {
     //user click different menu to request different pages and services
     //so now it is show time of React and Next.js Server Side Rendering
 
-    var menus = "<a href="+"https://www.huawei.com"+">Home</a>"+"|"+"<a href="+"https://www.google.com"+">Product</a>"+"<a href="+"https://www.qq.com"+">Account</a>";
+    var menus = "<a href="+"https://www.huawei.com"+">Home</a>"+"|"+"<a href="+"https://www.google.com"+">Product</a>"+"|"+"<a href="+"https://www.github.com"+">Cart</a>"+"<a href="+"https://www.qq.com"+">Account</a>";
                 //<a target="_blank" href="https://">Build a comments API with Workers and D1</a>
 
     function navigation(aa) {
